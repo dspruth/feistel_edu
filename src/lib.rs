@@ -109,4 +109,5 @@ mod tests {
             Err(_) => panic!("I'm sad"),
         };
     }
+
 }
